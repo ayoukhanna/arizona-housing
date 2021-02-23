@@ -1,0 +1,204 @@
+region_id,region_type,region
+28065,city,Yuma; AZ; Yuma County
+31567,city,Flagstaff; AZ; Coconino County
+41130,city,Sun City; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+18298,city,Glendale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+19331,city,Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+54346,city,Scottsdale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+47958,city,Tempe; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+4888,city,Gilbert; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+40298,city,Peoria; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+7330,city,Surprise; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+8814,city,Queen Creek; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+40326,city,Phoenix; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+10727,city,Casa Grande; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+192040,city,Sierra Vista; AZ; Sierra Vista-Douglas; Cochise County
+7481,city,Tucson; AZ; Pima County
+3869,city,Buckeye; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+30233,city,Apache Junction; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+24198,city,Coolidge; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+10226,city,Avondale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+18329,city,Goodyear; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+26620,city,Prescott; AZ; Yavapai County
+32697,city,Maricopa; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+46105,city,Lake Havasu City; AZ; Lake Havasu City-Kingman; Mohave County
+46039,city,Kingman; AZ; Lake Havasu City-Kingman; Mohave County
+737787,city,San Tan Valley; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+30651,city,Bullhead City; AZ; Lake Havasu City-Kingman; Mohave County
+54002,city,Prescott Valley; AZ; Prescott; Yavapai County
+56207,city,Marana; AZ; Tucson; Pima County
+26329,city,Oro Valley; AZ; Tucson; Pima County
+11278,city,El Mirage; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+38541,city,Florence; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+54619,city,Sun City West; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+32525,city,Litchfield Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+47502,city,Sahuarita; AZ; Tucson; Pima County
+43267,city,Somerton; AZ; Yuma; Yuma County
+111627,city,Catalina Foothills; AZ; Tucson; Pima County
+3418,city,Anthem; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+40026,city,Nogales; AZ; Santa Cruz County
+38791,city,Green Valley; AZ; Tucson; Pima County
+10965,city,Cottonwood; AZ; Prescott; Yavapai County
+38590,city,Fountain Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+11312,city,Eloy; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+53836,city,Payson; AZ; Gila County
+44966,city,Douglas; AZ; Sierra Vista-Douglas; Cochise County
+47689,city,Show Low; AZ; Navajo County
+7005,city,Sedona; AZ; Prescott; Yavapai County
+20291,city,Safford; AZ; Graham County
+33844,city,San Luis; AZ; Yuma; Yuma County
+6771,city,Rio Rico; AZ; Nogales; Santa Cruz County
+41753,city,Winslow; AZ; Show Low; Navajo County
+22301,city,Parker; AZ; La Paz County
+10816,city,Chino Valley; AZ; Prescott; Yavapai County
+50965,city,Benson; AZ; Sierra Vista-Douglas; Cochise County
+26113,city,New River; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+29973,city,Paradise Valley; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+18309,city,Globe; AZ; Payson; Gila County
+4928,city,Golden Valley; AZ; Lake Havasu City-Kingman; Mohave County
+30794,city,Cave Creek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+7729,city,Waddell; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+40218,city,Page; AZ; Flagstaff; Coconino County
+112014,city,Gold Canyon; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+34845,city,Willcox; AZ; Sierra Vista-Douglas; Cochise County
+39333,city,Lakeside; AZ; Show Low; Navajo County
+38967,city,Hereford; AZ; Sierra Vista-Douglas; Cochise County
+32907,city,Mohave Valley; AZ; Lake Havasu City-Kingman; Mohave County
+47736,city,Snowflake; AZ; Show Low; Navajo County
+36428,city,Tolleson; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+27435,city,Tonopah; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+23716,city,Bisbee; AZ; Sierra Vista-Douglas; Cochise County
+16295,city,Miami; AZ; Payson; Gila County
+45587,city,Guadalupe; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+34833,city,Wickenburg; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+113101,city,Tortolita; AZ; Tucson; Pima County
+14121,city,Thatcher; AZ; Safford; Graham County
+12620,city,Mayer; AZ; Prescott; Yavapai County
+54273,city,Saint Johns; AZ; Apache County
+7942,city,Williams; AZ; Flagstaff; Coconino County
+8568,city,Huachuca City; AZ; Sierra Vista-Douglas; Cochise County
+45774,city,Holbrook; AZ; Show Low; Navajo County
+20490,city,Fort Huachuca; AZ; Nogales; Santa Cruz County
+56913,city,Rimrock; AZ; Prescott; Yavapai County
+34068,city,South Tucson; AZ; Tucson; Pima County
+33354,city,Paulden; AZ; Prescott; Yavapai County
+14747,city,Youngtown; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+53900,city,Pinetop; AZ; Show Low; Navajo County
+112600,city,Picture Rocks; AZ; Tucson; Pima County
+41615,city,Wellton; AZ; Yuma; Yuma County
+4007,city,Catalina; AZ; Tucson; Pima County
+6895,city,Saint Michaels; AZ; Apache County
+45349,city,Fredonia; AZ; Flagstaff; Coconino County
+13111,city,Oracle; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+17846,city,Eagar; AZ; Apache County
+33845,city,San Manuel; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+37066,city,Ajo; AZ; Tucson; Pima County
+29116,city,Pima; AZ; Safford; Graham County
+17586,city,Corona de Tucson; AZ; Tucson; Pima County
+38944,city,Heber; AZ; Show Low; Navajo County
+31051,city,Cornville; AZ; Prescott; Yavapai County
+113075,city,Three Points; AZ; Tucson; Pima County
+15514,city,Morenci; AZ; Greenlee County
+38688,city,Gila Bend; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+21021,city,Vail; AZ; Tucson; Pima County
+22503,city,Littlefield; AZ; Lake Havasu City-Kingman; Mohave County
+49046,city,Gadsden; AZ; Yuma; Yuma County
+17531,city,Colorado City; AZ; Lake Havasu City-Kingman; Mohave County
+23952,city,Carefree; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+42768,city,Mc Neal; AZ; Sierra Vista-Douglas; Cochise County
+27333,city,Superior; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+21624,city,Clarkdale; AZ; Prescott; Yavapai County
+33347,city,Patagonia; AZ; Nogales; Santa Cruz County
+54520,city,Springerville; AZ; Apache County
+33569,city,Quartzsite; AZ; La Paz County
+44421,city,Camp Verde; AZ; Prescott; Yavapai County
+47557,city,Sanders; AZ; Apache County
+27143,city,Solomon; AZ; Safford; Graham County
+13233,city,Pearce; AZ; Sierra Vista-Douglas; Cochise County
+10861,city,Clifton; AZ; Greenlee County
+33283,city,Overgaard; AZ; Show Low; Navajo County
+7011,city,Seligman; AZ; Prescott; Yavapai County
+50433,city,Congress; AZ; Prescott; Yavapai County
+17381,city,Chambers; AZ; Apache County
+17794,city,Dolan Springs; AZ; Lake Havasu City-Kingman; Mohave County
+30475,city,Black Canyon City; AZ; Prescott; Yavapai County
+41188,city,Taylor; AZ; Show Low; Navajo County
+31610,city,Fort McDowell; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+40575,city,Rio Verde; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+45503,city,Grand Canyon; AZ; Flagstaff; Coconino County
+20623,city,Stanfield; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+33363,city,Peach Springs; AZ; Lake Havasu City-Kingman; Mohave County
+19528,city,Naco; AZ; Sierra Vista-Douglas; Cochise County
+56350,city,Pine; AZ; Payson; Gila County
+16202,city,Saint David; AZ; Sierra Vista-Douglas; Cochise County
+17942,city,Elfrida; AZ; Sierra Vista-Douglas; Cochise County
+55723,city,Kirkland; AZ; Prescott; Yavapai County
+5381,city,Kearny; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+12521,city,Mammoth; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+51845,city,Eden; AZ; Safford; Graham County
+33437,city,Pirtleville; AZ; Sierra Vista-Douglas; Cochise County
+30036,city,Salome; AZ; La Paz County
+27433,city,Tombstone; AZ; Sierra Vista-Douglas; Cochise County
+39178,city,Joseph City; AZ; Show Low; Navajo County
+41817,city,Young; AZ; Payson; Gila County
+44005,city,Bagdad; AZ; Prescott; Yavapai County
+45120,city,Elgin; AZ; Nogales; Santa Cruz County
+8149,city,Arlington; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+16692,city,Aguila; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+26235,city,Nutrioso; AZ; Apache County
+34971,city,Amado; AZ; Tucson; Pima County
+396566,city,Dewey-Humboldt; AZ; Prescott; Yavapai County
+23021,city,Ash Fork; AZ; Prescott; Yavapai County
+22303,city,Parks; AZ; Flagstaff; Coconino County
+14196,city,Tubac; AZ; Nogales; Santa Cruz County
+15970,city,Valley Farms; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+17384,city,Chandler; AZ; Phoenix-Mesa-Scottsdale; Maricopa County
+29566,city,Sonoita; AZ; Nogales; Santa Cruz County
+17503,city,Cochise; AZ; Sierra Vista-Douglas; Cochise County
+36601,city,Happy Jack; AZ; Flagstaff; Coconino County
+28980,city,Marble Canyon; AZ; Flagstaff; Coconino County
+8371,city,Concho; AZ; Apache County
+33934,city,Sells; AZ; Tucson; Pima County
+51653,city,Dateland; AZ; Yuma; Yuma County
+47439,city,Roll; AZ; Yuma; Yuma County
+47553,city,San Simon; AZ; Sierra Vista-Douglas; Cochise County
+42561,city,Mormon Lake; AZ; Flagstaff; Coconino County
+41257,city,Topock; AZ; Lake Havasu City-Kingman; Mohave County
+52690,city,Jerome; AZ; Prescott; Yavapai County
+38229,city,Dragoon; AZ; Sierra Vista-Douglas; Cochise County
+14639,city,Wikieup; AZ; Lake Havasu City-Kingman; Mohave County
+11272,city,Ehrenberg; AZ; La Paz County
+28020,city,Woodruff; AZ; Show Low; Navajo County
+112707,city,Red Rock; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+16130,city,Tonto Basin; AZ; Payson; Gila County
+9392,city,Yucca; AZ; Lake Havasu City-Kingman; Mohave County
+8875,city,Munds Park; AZ; Flagstaff; Coconino County
+51098,city,Bouse; AZ; La Paz County
+5888,city,Meadview; AZ; Lake Havasu City-Kingman; Mohave County
+48399,city,Wenden; AZ; La Paz County
+48236,city,Vernon; AZ; Apache County
+52080,city,Fort Thomas; AZ; Safford; Graham County
+40929,city,Skull Valley; AZ; Prescott; Yavapai County
+17074,city,Blue; AZ; Greenlee County
+34349,city,Tumacacori; AZ; Nogales; Santa Cruz County
+20237,city,Roosevelt; AZ; Payson; Gila County
+112945,city,Star Valley; AZ; Payson; Gila County
+38931,city,Hayden; AZ; Payson; Gila County
+21604,city,Cibola; AZ; La Paz County
+40343,city,Pinedale; AZ; Show Low; Navajo County
+35704,city,Forest Lakes; AZ; Flagstaff; Coconino County
+30178,city,Alpine; AZ; Apache County
+38248,city,Duncan; AZ; Greenlee County
+30040,city,Winkelman; AZ; Payson; Gila County
+50600,city,Yarnell; AZ; Prescott; Yavapai County
+24964,city,Greer; AZ; Apache County
+3443,city,Arivaca; AZ; Tucson; Pima County
+51607,city,Crown King; AZ; Prescott; Yavapai County
+10818,city,Chloride; AZ; Lake Havasu City-Kingman; Mohave County
+112003,city,Gisela; AZ; Payson; Gila County
+21519,city,Arizona City; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+37359,city,Bellemont; AZ; Flagstaff; Coconino County
+4432,city,Dudleyville; AZ; Phoenix-Mesa-Scottsdale; Pinal County
+5726,city,Lukeville; AZ; Tucson; Pima County
+40117,city,Oatman; AZ; Lake Havasu City-Kingman; Mohave County
+55214,city,Willow Beach; AZ; Lake Havasu City-Kingman; Mohave County

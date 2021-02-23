@@ -1,0 +1,796 @@
+region_id,region_type,region
+417895,neigh,The Groves; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267908,neigh,Camelback East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+272734,neigh,Alhambra; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+112547,neigh,Paradise Valley; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+267971,neigh,South Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+275454,neigh,South Scottsdale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+273652,neigh,Estrella; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+267900,neigh,Ahwatukee Foothills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+267912,neigh,Central City; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+267926,neigh,Encanto; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+111869,neigh,Drexel Heights; AZ; Tucson; Pima County
+113036,neigh,Tanque Verde; AZ; Tucson; Pima County
+417579,neigh,Power Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+111617,neigh,Casas Adobes; AZ; Tucson; Pima County
+112261,neigh,Laveen; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+112345,neigh,Maryvale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+111854,neigh,Dobson Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275040,neigh,Pinnacle Peak; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+417935,neigh,Superstition Springs; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273229,neigh,Cherry Avenue; AZ; Tucson; Pima County
+111818,neigh,Deer Valley; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+273631,neigh,Elvira; AZ; Tucson; Pima County
+417851,neigh,Alta Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267955,neigh,North Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+273470,neigh,Dietz; AZ; Tucson; Pima County
+417912,neigh,Las Sendas; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274525,neigh,Garden District; AZ; Tucson; Pima County
+267919,neigh,Desert View; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+417630,neigh,Greenfield Acres; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417631,neigh,Greenfield Glen; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274742,neigh,North Scottsdale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+762824,neigh,Historic Avondale; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+396576,neigh,Valencia West; AZ; Tucson; Pima County
+417734,neigh,Sun Groves; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+273345,neigh,Corbett; AZ; Tucson; Pima County
+417542,neigh,Val Vista Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417576,neigh,San Tan Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417713,neigh,Amberwood North; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417648,neigh,The Islands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+203441,neigh,Seville; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417715,neigh,Ocotillo; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417946,neigh,Augusta Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+396588,neigh,Flowing Wells; AZ; Tucson; Pima County
+208248,neigh,Bella Vista; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274496,neigh,Menlo Park; AZ; Tucson; Pima County
+272768,neigh,Amphi; AZ; Tucson; Pima County
+275439,neigh,South Harrison; AZ; Tucson; Pima County
+416900,neigh,Broadway Pantano East; AZ; Tucson; Pima County
+276357,neigh,Groves Lincoln Park; AZ; Tucson; Pima County
+275684,neigh,Terra Del Sol; AZ; Tucson; Pima County
+276590,neigh,Stella Mann; AZ; Tucson; Pima County
+274249,neigh,Lakeside Park; AZ; Tucson; Pima County
+113128,neigh,Tucson Estates; AZ; Tucson; Pima County
+274631,neigh,Myers; AZ; Tucson; Pima County
+417815,neigh,Mesa Grande; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417700,neigh,Lyon's Gate; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276401,neigh,Keeling; AZ; Tucson; Pima County
+267967,neigh,Sam Hughes; AZ; Tucson; Pima County
+112295,neigh,Littletown; AZ; Tucson; Pima County
+417728,neigh,The Provinces; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+274158,neigh,Julia Keen; AZ; Tucson; Pima County
+762634,neigh,Garden Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417885,neigh,Kleinman Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+259684,neigh,Rancho Santa Fe; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417582,neigh,Estates at Specturm; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112968,neigh,Summer Place Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417572,neigh,Spectrum; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275903,neigh,Wakefield; AZ; Tucson; Pima County
+233487,neigh,Galveston; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+762631,neigh,Coldwater Springs; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+761707,neigh,Bennett Estates; AZ; Flagstaff; Coconino County
+761708,neigh,Ponderosa Trails; AZ; Flagstaff; Coconino County
+417628,neigh,San Tan Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417870,neigh,Park of the Canals; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274667,neigh,Rio Vista; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+267946,neigh,Meyer Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417564,neigh,Chandler Ginning; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417578,neigh,Coronado Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417723,neigh,Cooper Commons; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417914,neigh,Desert Uplands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+276037,neigh,Westside Development; AZ; Tucson; Pima County
+762629,neigh,Sage Creek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417685,neigh,Finley Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417735,neigh,Vasaro; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+273956,neigh,Hedrick Acres; AZ; Tucson; Pima County
+417883,neigh,Dobson Woods; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+396586,neigh,Drexel-Alvernon; AZ; Tucson; Pima County
+417586,neigh,Stratland Shadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417587,neigh,Whitewing at Germann; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417585,neigh,Weston Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276214,neigh,Blenman-Elm; AZ; Tucson; Pima County
+275621,neigh,Sunnyside; AZ; Tucson; Pima County
+274529,neigh,Midvale Park; AZ; Tucson; Pima County
+14041,neigh,Sun Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+267954,neigh,North Gateway; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Phoenix
+275179,neigh,Rita Ranch; AZ; Tucson; Pima County
+417624,neigh,Suburban Ranchettes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417690,neigh,Higley Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274105,neigh,Ironwood Ridge; AZ; Tucson; Pima County
+267902,neigh,Alegre Community; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417772,neigh,The Traditions; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+275008,neigh,Pepperwood; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417694,neigh,Highlands West; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+267927,neigh,Escalante; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417890,neigh,United Amigos; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273614,neigh,El Cortez; AZ; Tucson; Pima County
+272713,neigh,A Mountain; AZ; Tucson; Pima County
+276298,neigh,Dodge Flower; AZ; Tucson; Pima County
+274306,neigh,Limberlost; AZ; Tucson; Pima County
+267978,neigh,Tempe Royal Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+112971,neigh,Summit; AZ; Tucson; Pima County
+417951,neigh,Parkwood Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417955,neigh,Sunland Springs Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+112275,neigh,Leisure World; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273020,neigh,Bravo Park Lane; AZ; Tucson; Pima County
+274829,neigh,Oak Flower; AZ; Tucson; Pima County
+273585,neigh,Eastside; AZ; Tucson; Pima County
+417837,neigh,Community Fiesta; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+416901,neigh,Rancho Perdido Estates; AZ; Tucson; Pima County
+111972,neigh,Fountain of the Sun; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417942,neigh,Sunland Village East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275303,neigh,Santa Cruz Southwest; AZ; Tucson; Pima County
+275628,neigh,Sunset; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417719,neigh,Carino Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+274549,neigh,Miracle Manor; AZ; Tucson; Pima County
+410405,neigh,C.A.N.D.O.; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417877,neigh,Fiesta Park Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274061,neigh,Houghton; AZ; Tucson; Pima County
+274882,neigh,Old Fort Lowell; AZ; Tucson; Pima County
+274137,neigh,Jefferson Park; AZ; Tucson; Pima County
+111550,neigh,Buckhorn; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+115326,neigh,Golden Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+276198,neigh,Barrio Hollywood; AZ; Tucson; Pima County
+417930,neigh,Sunland Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417897,neigh,Reed Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273122,neigh,Campus Farm; AZ; Tucson; Pima County
+417850,neigh,Encanto; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274949,neigh,Palo Verde; AZ; Tucson; Pima County
+273102,neigh,Cabrini; AZ; Tucson; Pima County
+275174,neigh,Rillito; AZ; Tucson; Pima County
+275996,neigh,West University; AZ; Tucson; Pima County
+275025,neigh,Pie Allen; AZ; Tucson; Pima County
+274551,neigh,Miramonte; AZ; Tucson; Pima County
+267437,neigh,Sunnyside; AZ; Flagstaff; Coconino County
+417566,neigh,Cooley Station; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+762625,neigh,Glenhurst; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+112272,neigh,Lehi; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273616,neigh,El G.H.E.K.O.; AZ; Tucson; Pima County
+417563,neigh,Chaparral Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417619,neigh,Esquire Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417766,neigh,Twelve Oaks; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417598,neigh,Superstition Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417841,neigh,Citrus; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273268,neigh,Civano; AZ; Tucson; Pima County
+417575,neigh,Whitewing at Higley; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275176,neigh,Rincon Heights; AZ; Tucson; Pima County
+272805,neigh,Arroyo Chico; AZ; Tucson; Pima County
+417580,neigh,Trilogy; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417733,neigh,Springfield Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+275128,neigh,Rancho Buena; AZ; Tucson; Pima County
+417873,neigh,Cottage Grove Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273621,neigh,El Rio Acres; AZ; Tucson; Pima County
+273507,neigh,Drexel Park; AZ; Tucson; Pima County
+4000,neigh,Cashion; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417674,neigh,Mira Vista Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275542,neigh,St. Cyrils; AZ; Tucson; Pima County
+417641,neigh,El Dorado at the Highlands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417642,neigh,Circle G at the Highlands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+273714,neigh,Feldman's; AZ; Tucson; Pima County
+274701,neigh,North Dodge; AZ; Tucson; Pima County
+417559,neigh,Crossings at Crossroads; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417596,neigh,Towne Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417684,neigh,Western Skies; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417726,neigh,Lagos Vistoso; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417656,neigh,White Fence Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417886,neigh,Nuestro; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275091,neigh,Prince Tucson; AZ; Tucson; Pima County
+762627,neigh,Crystal Garden; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+275757,neigh,Toumey Park; AZ; Tucson; Pima County
+417921,neigh,Sierra Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417906,neigh,Dana Ranch Villas; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417911,neigh,Red Mountain Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417936,neigh,Desert Sands Country Club; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+111534,neigh,Breckenridge Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276419,neigh,Las Vistas; AZ; Tucson; Pima County
+273676,neigh,Fairgrounds; AZ; Tucson; Pima County
+417925,neigh,Salerno Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274755,neigh,North University; AZ; Tucson; Pima County
+275013,neigh,Peter Howell; AZ; Tucson; Pima County
+275220,neigh,Roberts; AZ; Tucson; Pima County
+762669,neigh,Tres Rios Landing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+113079,neigh,Tiburon; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+761720,neigh,Mcmillian Mesa; AZ; Flagstaff; Coconino County
+267932,neigh,Holdeman; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+411347,neigh,Northgrove; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417717,neigh,Fox Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417754,neigh,Andersen Springs; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+273940,neigh,Harrison East-South; AZ; Tucson; Pima County
+267918,neigh,Date Palm Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+267938,neigh,Tempe South Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+267931,neigh,Gililland; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417909,neigh,Mesa Madrid; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417537,neigh,Gateway Court; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276364,neigh,Harlan Heights; AZ; Tucson; Pima County
+762623,neigh,Crystal Point; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+273319,neigh,Colonia Del Valle; AZ; Tucson; Pima County
+274823,neigh,Indian Bend; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417557,neigh,Gilbert Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276487,neigh,Papago Park View; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417755,neigh,Chandler Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417858,neigh,U2; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417887,neigh,Rotary Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761728,neigh,Walnut Meadows; AZ; Flagstaff; Coconino County
+417693,neigh,Agritopia; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417695,neigh,San Savino; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417952,neigh,Signal Butte Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267937,neigh,Kiwanis Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417696,neigh,Lakeview Trails; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417947,neigh,Villages of Eastridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417831,neigh,Loma Verde; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267985,neigh,Wood Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417629,neigh,Shamrock Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275254,neigh,Rosemont West; AZ; Tucson; Pima County
+761732,neigh,Country Club Estates; AZ; Flagstaff; Coconino County
+417932,neigh,Camino del Rey; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417567,neigh,Pecos Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276541,neigh,Riverside; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417748,neigh,Windmills West; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417682,neigh,Lindsay Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417532,neigh,Silverhawke; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761713,neigh,Presidio in the Pines; AZ; Flagstaff; Coconino County
+417607,neigh,Desert Winds; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417608,neigh,Via Sorento; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417640,neigh,Bridges at Gilbert; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+273641,neigh,Enchanted Hills; AZ; Tucson; Pima County
+762672,neigh,Cambridge Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417956,neigh,Meridian Pointe; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417620,neigh,Sonoma Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417599,neigh,Groves at Superstition Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417691,neigh,Greenfield Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417775,neigh,Warner Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417732,neigh,Sunbird; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+274915,neigh,Optimist Park NE; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417617,neigh,Wind Drift; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417650,neigh,Madera Parc; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417844,neigh,Estate Groves and Valencia Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+344048,neigh,Tucson Park West No.1; AZ; Tucson; Pima County
+417623,neigh,Higley Groves; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417899,neigh,Casa de Sol; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275269,neigh,Saguaro Miraflores; AZ; Tucson; Pima County
+272891,neigh,Bear Canyon; AZ; Tucson; Pima County
+267909,neigh,Camelot Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+267940,neigh,Lindon Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417556,neigh,Ashland Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+262736,neigh,Dexter; AZ; Prescott; Yavapai County
+762671,neigh,Coldwater Ridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417591,neigh,Carol Rae Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417679,neigh,Val Vista Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417913,neigh,Thunder Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+762624,neigh,Upland Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+274609,neigh,Mountain First Avenue; AZ; Tucson; Pima County
+417879,neigh,Powell Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417543,neigh,Park Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+207555,neigh,Sun River; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417653,neigh,Lago Estancia; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+272846,neigh,Balboa Heights; AZ; Tucson; Pima County
+761718,neigh,Cherry Hiil; AZ; Flagstaff; Coconino County
+274799,neigh,Northwest; AZ; Tucson; Pima County
+417954,neigh,Santa Rita Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267981,neigh,University Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+762630,neigh,Corte Sierra; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417716,neigh,Balboa Way; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+275892,neigh,Vista Del Monte; AZ; Tucson; Pima County
+761710,neigh,Equestrian Estates; AZ; Flagstaff; Coconino County
+273475,neigh,Doolen-Fruitvale; AZ; Tucson; Pima County
+417900,neigh,Mesa Mobile Home Estates III; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267936,neigh,Jen Tilly Terrace; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+215929,neigh,Springs; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417769,neigh,Sunnycrest; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+275338,neigh,Sewell; AZ; Tucson; Pima County
+112342,neigh,Marlborough Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417763,neigh,Ashley Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+111413,neigh,Apache Wells; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417645,neigh,Highland Groves At Morrison Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112218,neigh,Knoell East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+143948,neigh,Speedway; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+116784,neigh,Mountain Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+257661,neigh,Ridgeview; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+276195,neigh,Avondale; AZ; Tucson; Pima County
+417853,neigh,Rancho del Lago; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275279,neigh,Samos; AZ; Tucson; Pima County
+273372,neigh,Country Glenn; AZ; Tucson; Pima County
+417926,neigh,North Center Street; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417905,neigh,Marlborough at Dana Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417842,neigh,Hermosa Vista Flood; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761724,neigh,Swiss Manor; AZ; Flagstaff; Coconino County
+417943,neigh,Lesueur Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274214,neigh,La Madera; AZ; Tucson; Pima County
+267906,neigh,Broadmor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417859,neigh,Fraser Fields; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267929,neigh,Evergreen; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417724,neigh,Park Promenade; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417683,neigh,Neely Commons; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276465,neigh,Mountain View; AZ; Tucson; Pima County
+267980,neigh,University Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+273435,neigh,Dava-Lakeshore; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+275242,neigh,Rose; AZ; Tucson; Pima County
+268352,neigh,Northpointe; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+272797,neigh,Armory Park; AZ; Tucson; Pima County
+274917,neigh,Optimist Park SE; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417933,neigh,Stonegate Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417760,neigh,Colonia Coronita; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417765,neigh,San Marcos Country Club; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+276015,neigh,Western Hills II; AZ; Tucson; Pima County
+267944,neigh,McClintock; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+761729,neigh,Forest Springs; AZ; Flagstaff; Coconino County
+274916,neigh,Optimist Park NW; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+275263,neigh,Rural-Geneva; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+113305,neigh,Woodglen; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+112125,neigh,Hohokam Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761709,neigh,University Heights-Highlands; AZ; Flagstaff; Coconino County
+267969,neigh,Scudder Park West; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417529,neigh,El Dorado Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417670,neigh,Neely Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274918,neigh,Optimist Park SW; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+254351,neigh,Sherwood; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274873,neigh,Ocotillo Oracle; AZ; Tucson; Pima County
+417718,neigh,Ocotillo Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417884,neigh,Rancho del Mar; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275061,neigh,Poets Square; AZ; Tucson; Pima County
+417950,neigh,Signal Butte Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761660,neigh,Pine Park Manor; AZ; Flagstaff; Coconino County
+417944,neigh,Las Palmas Grand; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417720,neigh,Arden Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+275160,neigh,Richland Heights East; AZ; Tucson; Pima County
+203725,neigh,Stonecreek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417565,neigh,Pecos Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274564,neigh,Mitman; AZ; Tucson; Pima County
+267934,neigh,Hughes Acres; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+274507,neigh,Mesquite Ranch; AZ; Tucson; Pima County
+272864,neigh,Baseline-Hardy; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+273051,neigh,Broadmoor-Broadway; AZ; Tucson; Pima County
+761700,neigh,Forest Highlands; AZ; Flagstaff; Coconino County
+417698,neigh,Higley Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417697,neigh,Cooley Station North; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417633,neigh,Marbella Vineyards; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417743,neigh,Vineyards; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417753,neigh,Arrowhead Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+272861,neigh,Barrio Santa Rosa; AZ; Tucson; Pima County
+275451,neigh,South Park; AZ; Tucson; Pima County
+761698,neigh,Flagstaff Ranch; AZ; Flagstaff; Coconino County
+761697,neigh,Westwood Estates; AZ; Flagstaff; Coconino County
+761696,neigh,Saskan Ranch; AZ; Flagstaff; Coconino County
+417541,neigh,Val Vista Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417830,neigh,Passey Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274533,neigh,Miles East West; AZ; Tucson; Pima County
+417849,neigh,Stoneybrook; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417861,neigh,Royal Palms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417581,neigh,Layton Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274414,neigh,Maple-Ash; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417649,neigh,Artemina; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417560,neigh,Gateway Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761712,neigh,Boulder Point; AZ; Flagstaff; Coconino County
+412298,neigh,North Shore; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417611,neigh,Stonebridge Lakes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+272857,neigh,Dunbar Spring; AZ; Tucson; Pima County
+252028,neigh,Summit; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274208,neigh,Southern Palms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+168527,neigh,Roosevelt Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+275644,neigh,Swan Way Park; AZ; Tucson; Pima County
+417840,neigh,Southern Manor I and II; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273058,neigh,Broadway-Northeast; AZ; Tucson; Pima County
+275286,neigh,San Gabriel; AZ; Tucson; Pima County
+272859,neigh,Barrio Centro; AZ; Tucson; Pima County
+417744,neigh,Carrizal; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417538,neigh,College Park Country Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417838,neigh,Escobedo Historic District; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+275743,neigh,Thunderbird Heights-Wilmot Desert Estates; AZ; Tucson; Pima County
+417875,neigh,Fiesta; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267968,neigh,Sandahl; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+111394,neigh,Alta Mira; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417625,neigh,Ranchitos Verde; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+113872,neigh,Boulder Creek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417548,neigh,The Gardens; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+416896,neigh,Catalina Vista; AZ; Tucson; Pima County
+761731,neigh,Elk Run; AZ; Flagstaff; Coconino County
+417777,neigh,Sunwest Trails; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417618,neigh,Vista Estancia; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274821,neigh,Papago Parkway; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+267933,neigh,Hudson Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+761703,neigh,Pine Knoll; AZ; Flagstaff; Coconino County
+417603,neigh,Sonesta Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417949,neigh,Crimson Creek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+274824,neigh,West Rio; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+761714,neigh,Railroad Springs; AZ; Flagstaff; Coconino County
+267977,neigh,Tempe Gardens; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+416895,neigh,Duffy; AZ; Tucson; Pima County
+270063,neigh,South Side; AZ; Flagstaff; Coconino County
+417699,neigh,Ray Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417600,neigh,Cayman Square; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761689,neigh,Lockett Ranches; AZ; Flagstaff; Coconino County
+267942,neigh,MACH 8; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+397048,neigh,Cheshire; AZ; Flagstaff; Coconino County
+417836,neigh,Meridian Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417550,neigh,Ashley Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417665,neigh,Rancho Del Verde; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+422748,neigh,El Encanto; AZ; Tucson; Pima County
+276589,neigh,Starr Pass; AZ; Tucson; Pima County
+274822,neigh,Marlborough Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+762674,neigh,Del Rio Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417778,neigh,Paseo Trail North; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+274421,neigh,Marilyn Ann; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+274006,neigh,Highland Vista Cinco Via; AZ; Tucson; Pima County
+414571,neigh,Springfield; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417907,neigh,Casa Mesa II; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+112401,neigh,Mission Valley; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417540,neigh,Circle G Ranches; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417561,neigh,The Crossroads; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417878,neigh,Country Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417672,neigh,Settler's Meadow; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761711,neigh,Woodlands Village; AZ; Flagstaff; Coconino County
+417848,neigh,Stonecrest; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417749,neigh,Greater Corona Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417958,neigh,Stratford Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417957,neigh,Mountain Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417570,neigh,Gilbert Commons; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417852,neigh,Skyline Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+226364,neigh,Eastridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417818,neigh,Mesa Vista II; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761719,neigh,Switzer Ridge-Mesa; AZ; Flagstaff; Coconino County
+417821,neigh,Eaton Club Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417721,neigh,Circle G Riggs Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+112661,neigh,Pueblo Gardens; AZ; Tucson; Pima County
+113212,neigh,Warner Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417669,neigh,Settler's Point South; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417756,neigh,Willis Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+276531,neigh,Richland Heights West; AZ; Tucson; Pima County
+417832,neigh,Hohokam Highlands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417910,neigh,Esquire Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417866,neigh,Citrus Highlands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417898,neigh,Oak Park Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417659,neigh,Farmhouse Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417855,neigh,Camelot Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417626,neigh,Holiday Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275289,neigh,San Ignacio Yaqui; AZ; Tucson; Pima County
+762628,neigh,Harbor Shores; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+112680,neigh,Raintree; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+267907,neigh,Broadway Palms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417793,neigh,Harmon Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+762841,neigh,Gail Gardener; AZ; Prescott; Yavapai County
+417774,neigh,Trovita; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+762670,neigh,CW Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+267970,neigh,Shalimar; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417562,neigh,Vincenz; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417751,neigh,Shawnee Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417945,neigh,Arizona Skyline; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761722,neigh,Lower Greenlaw Esates; AZ; Flagstaff; Coconino County
+259568,neigh,Lynwood; AZ; Flagstaff; Coconino County
+417664,neigh,Lamoreaux Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+130983,neigh,Pineview; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+276319,neigh,El Presidio; AZ; Tucson; Pima County
+417758,neigh,Pecos Aldea; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+267928,neigh,Estate La Colina; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417863,neigh,East Orangewood Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417892,neigh,University Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417539,neigh,Circle G Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761726,neigh,Christmas Tree Estates; AZ; Flagstaff; Coconino County
+417692,neigh,Rancho Corona; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761715,neigh,La Plaza Veja; AZ; Flagstaff; Coconino County
+417686,neigh,Sonoran Vista; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417768,neigh,Silk Stocking; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417938,neigh,Desert Harmony; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417889,neigh,Sherwood Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417941,neigh,Casa Mia; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417864,neigh,Candlelight Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+276551,neigh,Santa Rita Park; AZ; Tucson; Pima County
+272862,neigh,Barrio Viejo; AZ; Tucson; Pima County
+417757,neigh,Kempton Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+274640,neigh,Naylor; AZ; Tucson; Pima County
+276654,neigh,West Village; AZ; Flagstaff; Coconino County
+417714,neigh,Southmoore; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417687,neigh,Rancho Cimarron; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417880,neigh,Pace East II; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761730,neigh,Fox Glenn; AZ; Flagstaff; Coconino County
+275285,neigh,San Clemente; AZ; Tucson; Pima County
+417876,neigh,Camden Vista Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+118995,neigh,Willows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417738,neigh,Cooper Corners; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417731,neigh,Chandler Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417675,neigh,Spring Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+111760,neigh,Corona Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417915,neigh,Boulder Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417601,neigh,Summer Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417736,neigh,Symphony Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+237434,neigh,San Marcos; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417750,neigh,Sunridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+273461,neigh,Desert Aire-Loma Linda; AZ; Tucson; Pima County
+417770,neigh,D'Arcy Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417888,neigh,Heritage Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417817,neigh,Village Park Four; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761717,neigh,Downtown Flagstaff; AZ; Flagstaff; Coconino County
+417555,neigh,Springtree; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417833,neigh,Park Center Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417894,neigh,Groves East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417673,neigh,Lindsay Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417536,neigh,Villa Madeira; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+416902,neigh,San Carlos; AZ; Tucson; Pima County
+417927,neigh,Concord Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417571,neigh,Jakes Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+273275,neigh,Clark Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+272736,neigh,Alameda-Campus; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+267917,neigh,Daley Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417847,neigh,Sundance Homes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417688,neigh,Cottonwoods Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417948,neigh,Sierra Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273027,neigh,Brentwood-Cavalier; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+276234,neigh,Campbell-Grant; AZ; Tucson; Pima County
+417660,neigh,Colonia Granada; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417939,neigh,Desert Sands East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417605,neigh,Neely Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112966,neigh,Summer Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417569,neigh,Vintage Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417762,neigh,Heather Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417218,neigh,McClintock Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+275639,neigh,Sunset Villa; AZ; Tucson; Pima County
+267975,neigh,Tally Ho Farms North; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417615,neigh,Lowe Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+147745,neigh,Glenview; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+112503,neigh,Orange Tree; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417545,neigh,Carriage Parc Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417882,neigh,Continental Townhouses; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761706,neigh,Bow & Arrow Acres; AZ; Flagstaff; Coconino County
+762626,neigh,Fieldcrest; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417816,neigh,Los Racimos; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417780,neigh,Alma School Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+272762,neigh,Alvernon Heights; AZ; Tucson; Pima County
+417725,neigh,Kerby Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417621,neigh,Val Vista Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417846,neigh,Mira Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417786,neigh,Rialto Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+762633,neigh,Glenarm Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+417783,neigh,Crescent Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417829,neigh,Emerson Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267951,neigh,Mitchell Park West; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417937,neigh,Linda Vista; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267950,neigh,Mitchell Park East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417657,neigh,Raven Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417794,neigh,San Vincente; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417822,neigh,Devonshire Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417902,neigh,Parkview Terrace; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417614,neigh,Rio Caballo; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+113197,neigh,Vista Alegre; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417678,neigh,Ka-lo Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417590,neigh,Tone Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+267974,neigh,Tally Ho Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417845,neigh,The Wells; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+762632,neigh,Westwind; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+272858,neigh,Barrio Blue Moon; AZ; Tucson; Pima County
+417584,neigh,Vista Dorada; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417549,neigh,Copper Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761692,neigh,Rock Ridge Estates; AZ; Flagstaff; Coconino County
+417533,neigh,Arrowpoint; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+267972,neigh,Sunburst Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417860,neigh,Harrison Acres; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417865,neigh,Forest Knoll North; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417737,neigh,Chandler Heights Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417667,neigh,Millet Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417857,neigh,Stapley Greens; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417535,neigh,Holiday Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417891,neigh,Lyn Rae; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417934,neigh,San Michelle; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417820,neigh,Mesa Valley View; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417771,neigh,Sunshine Valley; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417534,neigh,Oaktree Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417592,neigh,Cameron Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417597,neigh,Superstition Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417554,neigh,Serrano; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112957,neigh,Stonegate Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+762673,neigh,Las Ligas; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+267916,neigh,Cyprus Southwest; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+761693,neigh,West Ridge; AZ; Flagstaff; Coconino County
+417651,neigh,Candlewood; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+411405,neigh,Sunset Cove; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417680,neigh,Silverstone Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417644,neigh,Rancho Collene; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112585,neigh,Pepperwood; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417593,neigh,Kristin Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417553,neigh,Lindsay Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112685,neigh,Rancho de Arboleda; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417594,neigh,Highland Groves; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417551,neigh,Gateway Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417531,neigh,Stonehenge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417643,neigh,Superstition Highlands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417773,neigh,Trails End; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417658,neigh,Old West Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275381,neigh,Silvercroft; AZ; Tucson; Pima County
+275342,neigh,Shaheen Estates; AZ; Tucson; Pima County
+414455,neigh,Canterbury; AZ; Prescott; Yavapai County
+273518,neigh,Duskfire II; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417745,neigh,Comanche Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+112098,neigh,Heatherbrook; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+112459,neigh,New Horizons; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417681,neigh,Mirador Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417827,neigh,Colony by the Green; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761721,neigh,Shadow Mountain; AZ; Flagstaff; Coconino County
+417662,neigh,Settler's Point; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417573,neigh,Val Vista Classic; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417747,neigh,Pecos Vistas; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417547,neigh,Carriage Lane; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417904,neigh,Dana Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417722,neigh,Riggs Ranch Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+270699,neigh,North Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417856,neigh,Pleasant Shadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417819,neigh,Garden Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267973,neigh,Superstition; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417730,neigh,Ray Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417916,neigh,Moondance; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417785,neigh,Mission Tierra; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417639,neigh,Gilbert Homes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417676,neigh,Gilbert Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417869,neigh,Pacific Palms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761691,neigh,Coconino Estates; AZ; Flagstaff; Coconino County
+417544,neigh,Tierra Ranchos; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417929,neigh,Windsor Shadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417661,neigh,Morning Ridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417789,neigh,La Glorieta; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417761,neigh,Monterey Vista; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+761701,neigh,Flagstaff Brannen Addtion; AZ; Flagstaff; Coconino County
+417671,neigh,Settler's Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417759,neigh,Rio Del Verde; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+274543,neigh,Millville; AZ; Tucson; Pima County
+417741,neigh,Lantana Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417612,neigh,Groves of Gilbert; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+273462,neigh,Desert Palms Park; AZ; Tucson; Pima County
+417854,neigh,Villa Royale III; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273515,neigh,Barrio Anita; AZ; Tucson; Pima County
+417740,neigh,Countryside Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+256336,neigh,Highland; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417788,neigh,Grand Reserve; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417824,neigh,Hillcrest Terrace; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417903,neigh,Robin Lane; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+762842,neigh,Fleury; AZ; Prescott; Yavapai County
+275606,neigh,Summerfield; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+274104,neigh,Iron Horse; AZ; Tucson; Pima County
+417652,neigh,Martinque; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417918,neigh,Falcon Hill; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761727,neigh,Smokerise Valley; AZ; Flagstaff; Coconino County
+417546,neigh,Tone; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417872,neigh,McAfee Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417663,neigh,Country Lane; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+267979,neigh,University Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+117387,neigh,Playa del Rey; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417792,neigh,Carrillo Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417727,neigh,Paseo Crossings; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+119125,neigh,Alamosa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+267925,neigh,East Rio; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417764,neigh,Superstition Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+273833,neigh,Glenn Heights; AZ; Tucson; Pima County
+417781,neigh,Sienna Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417862,neigh,Gilburr Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273316,neigh,College Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417784,neigh,Fairview Meadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+416903,neigh,Cottonwood Manor; AZ; Tucson; Pima County
+417627,neigh,Felty Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+276090,neigh,Wilshire Heights; AZ; Tucson; Pima County
+417752,neigh,Arcadia Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+116703,neigh,Montecito; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417595,neigh,Highland Corner; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+267983,neigh,Warner Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+272860,neigh,Barrio San Antonio; AZ; Tucson; Pima County
+417834,neigh,Duke Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417823,neigh,West Enders; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417825,neigh,Northridge Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+113016,neigh,Sun View; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417677,neigh,Smoke Tree Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417843,neigh,Spyglass Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+273352,neigh,Corona Del Sol; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417729,neigh,Whispering Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417668,neigh,Gilbert and Ray Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417666,neigh,Westbank; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417953,neigh,Crimson Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417654,neigh,Templeton Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417867,neigh,Hermosa Vista Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+254903,neigh,Ashland; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417787,neigh,Castille; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417901,neigh,Suntrails III; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+196124,neigh,Madrid; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+416904,neigh,Sierra Estates; AZ; Tucson; Pima County
+761705,neigh,Lake Mary Road; AZ; Flagstaff; Coconino County
+417746,neigh,Tristan; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+761690,neigh,Hospital Hill; AZ; Flagstaff; Coconino County
+417782,neigh,Blakeman Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417602,neigh,Crystal Point Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417558,neigh,Fincher Farms; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417835,neigh,Mesafield; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417742,neigh,Tremaine Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417908,neigh,Pepper Place; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417577,neigh,Windmill Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+112050,neigh,Greenfield Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417616,neigh,Sierra Springs; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417574,neigh,Stratland Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417790,neigh,Mission Manor at Ray Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417893,neigh,Mahogany; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417928,neigh,Stonebridge Gardens; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417791,neigh,Golden Key East; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417923,neigh,Saguaro Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417647,neigh,Highland Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417613,neigh,Park Grove Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417530,neigh,Cooper Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761695,neigh,Tintagel; AZ; Flagstaff; Coconino County
+112983,neigh,Suncrest Villas Chandler; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+267914,neigh,Colonia Solana; AZ; Tucson; Pima County
+417636,neigh,Arlington Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417828,neigh,Fairway Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417767,neigh,Park Manor; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417931,neigh,Greenwood Glen; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417604,neigh,Park Place Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417610,neigh,Ridgewood by Shea Homes; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761725,neigh,Mount Elden Foothills; AZ; Flagstaff; Coconino County
+275253,neigh,Rosemont East; AZ; Tucson; Pima County
+417634,neigh,Tangerine Court; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417779,neigh,Riggs Country; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417871,neigh,Villas Valencia; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417826,neigh,Fairway Gardens Townhouses; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417896,neigh,Eastview Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417637,neigh,Meadow Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417868,neigh,Madera de la Mesa; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417776,neigh,Tuscany; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+417568,neigh,Allen Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+267965,neigh,Pheasant Ridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+417552,neigh,Palomino Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417606,neigh,La Vida Serena Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+275796,neigh,Udall Park; AZ; Tucson; Pima County
+414748,neigh,Barrington; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+234706,neigh,Lacy; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+273157,neigh,Catalina Vista-Blenman-Elm; AZ; Tucson; Pima County
+219675,neigh,Forest Dale; AZ; Flagstaff; Coconino County
+417839,neigh,Glenwood Wilbur Historic District; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+267964,neigh,Peterson Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+273613,neigh,El Conquistador; AZ; Tucson; Pima County
+761704,neigh,Pine Canyon; AZ; Flagstaff; Coconino County
+273618,neigh,El Montevideo; AZ; Tucson; Pima County
+274982,neigh,Parkway Terrace; AZ; Tucson; Pima County
+417638,neigh,Meadowbrook Village; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417583,neigh,Vista del Oro; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417632,neigh,Country Shadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417609,neigh,Arbor Walk; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761734,neigh,Lakeside Acres; AZ; Flagstaff; Coconino County
+417646,neigh,La Aldea; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417917,neigh,Sunrise at College Park; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+416899,neigh,Panorama Estates; AZ; Tucson; Pima County
+417655,neigh,Cobble Creek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417622,neigh,Whitewing At Wiehl Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417635,neigh,Evans Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417588,neigh,Broadland Ranches; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+761716,neigh,Flagstaff Townsite; AZ; Flagstaff; Coconino County
+36994,neigh,White Hills; AZ; Lake Havasu City-Kingman; Mohave County; Willow Beach
+417924,neigh,Saguaro Shadows; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+163111,neigh,Tanglewood; AZ; Flagstaff; Coconino County
+267904,neigh,Bell De Mar Crossing; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+761733,neigh,Amberwood; AZ; Flagstaff; Coconino County
+417919,neigh,Adobe Hills; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417689,neigh,Greenfield Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+416898,neigh,Sombras del Cerro; AZ; Tucson; Pima County
+761699,neigh,Pine Del; AZ; Flagstaff; Coconino County
+111814,neigh,DC Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+111829,neigh,Desert Highlands; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+112840,neigh,Scottsdale Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+113116,neigh,Troon; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+113238,neigh,Westgreen Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Peoria
+112309,neigh,Los Tesoros; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+416897,neigh,Silverbell Terrace; AZ; Tucson; Pima County
+267923,neigh,Duskfire; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+761694,neigh,Creighton Estates- Forest Hills; AZ; Flagstaff; Coconino County
+222914,neigh,Ridge Crest; AZ; Flagstaff; Coconino County
+411827,neigh,Silver Creek; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Gilbert
+417920,neigh,Grandview Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417922,neigh,Sierra Estates; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+112619,neigh,Pinnacle Peak Heights; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+272726,neigh,Adelanto; AZ; Tucson; Pima County
+111987,neigh,Gainey Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+112354,neigh,McDowell Mountain; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+113281,neigh,Windmill; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Peoria
+111552,neigh,Buenavante; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+112080,neigh,Happy Valley Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+258937,neigh,Mountain View; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+761723,neigh,Upper Greenlaw Estates; AZ; Flagstaff; Coconino County
+112896,neigh,Sincuidados; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Scottsdale
+417940,neigh,Desert Sands North; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Mesa
+417739,neigh,Creekwood Ranch; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+762561,neigh,Las Palmeras West; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Avondale
+267948,neigh,Mission Ridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Tempe
+274597,neigh,Mortimore; AZ; Tucson; Pima County
+211710,neigh,Homestead; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
+224537,neigh,Pineridge; AZ; Phoenix-Mesa-Scottsdale; Maricopa County; Chandler
